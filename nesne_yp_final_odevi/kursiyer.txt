@@ -1,0 +1,12 @@
+#5050-Ahmet Ada-23
+*1000-Yüzme
+*1040-Judo
+#6085-Selda Şahin-35
+*1020-Yoga
+#5090-Deniz Arslan-30
+*1000-Yüzme
+*1060-Plates
+#6174-Tarık Kılıç-42
+*1010-Fitness
+*1030-Tekvando
+*1050-Boks

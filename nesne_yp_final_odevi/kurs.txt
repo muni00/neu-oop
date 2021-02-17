@@ -1,0 +1,7 @@
+1000-Yüzme
+1010-Fitness
+1020-Yoga
+1030-Tekvando
+1040-Judo
+1050-Boks
+1060-Plates
